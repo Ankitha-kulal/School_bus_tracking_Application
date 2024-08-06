@@ -18,6 +18,7 @@ This School Bus Tracking System is designed to help parents manage their childre
 
 ## Getting Started
 
+
 ### Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
