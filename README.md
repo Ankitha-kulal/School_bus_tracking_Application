@@ -1,6 +1,5 @@
 # School_bus_tracking_Application
 
-# School Bus Tracking System
 
 A Flutter app for parents to track their child's school bus in real-time using the driver's location. The backend is powered by Firebase, with Google Maps integration for location tracking.
 
@@ -17,7 +16,11 @@ This School Bus Tracking System is designed to help parents manage their childre
 
 
 ## Getting Started
+![getstarted 3](https://github.com/user-attachments/assets/72305e82-8ae4-4881-a1e2-3386c895ac8c)
 
+![get started1](https://github.com/user-attachments/assets/e33d31c3-5499-49ca-984c-d366944615fb)
+
+![Dashboard](https://github.com/user-attachments/assets/2538750b-4637-421e-b180-48b658642061)
 
 ### Prerequisites
 
